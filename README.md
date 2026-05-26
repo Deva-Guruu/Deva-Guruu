@@ -250,3 +250,16 @@ Credit SanStudio in your work
 
 
 <div align="center"> <a href="https://github.com/YOUR_USERNAME"> <img src="https://skillicons.dev/icons?i=github" width="60"> </a> <a href="https://linkedin.com/in/YOUR_LINK"> <img src="https://skillicons.dev/icons?i=linkedin" width="60"> </a> <a href="https://twitter.com/YOUR_LINK"> <img src="https://skillicons.dev/icons?i=twitter" width="60"> </a> </div>
+
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=35&duration=3000&color=FF3131&center=true&vCenter=true&width=900&lines=HYPER+RACING+SYSTEM;WELCOME+RACER;FULL+THROTTLE+CODING" />
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://media.tenor.com/8MxaXKkzT6gAAAAC/racing-car.gif" width="100%">
+</p>
+
