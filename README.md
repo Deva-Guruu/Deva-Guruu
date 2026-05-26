@@ -245,5 +245,5 @@ Credit SanStudio in your work
 
 
 ---
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2000&color=FF00FF&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE;MISSION+STARTED;WELCOME+TO+MY+UNIVERSE" /> </div>
 ### Built with ❤️ by SanStudio Team
