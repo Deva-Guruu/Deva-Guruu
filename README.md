@@ -263,3 +263,15 @@ Credit SanStudio in your work
   <img src="https://media.tenor.com/8MxaXKkzT6gAAAAC/racing-car.gif" width="100%">
 </p>
 
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&color=FFD700&center=true&vCenter=true&width=1000&lines=ENTER+THE+DEVELOPER+KINGDOM;LEVEL+UP+YOUR+SKILLS;QUEST+STARTED" />
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://media.tenor.com/Bu0Zr0eZK7AAAAAC/rpg-game.gif" width="100%">
+</p>
+
+
