@@ -247,3 +247,6 @@ Credit SanStudio in your work
 ---
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2000&color=FF00FF&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE;MISSION+STARTED;WELCOME+TO+MY+UNIVERSE" /> </div>
 ### Built with ❤️ by SanStudio Team
+
+
+<div align="center"> <a href="https://github.com/YOUR_USERNAME"> <img src="https://skillicons.dev/icons?i=github" width="60"> </a> <a href="https://linkedin.com/in/YOUR_LINK"> <img src="https://skillicons.dev/icons?i=linkedin" width="60"> </a> <a href="https://twitter.com/YOUR_LINK"> <img src="https://skillicons.dev/icons?i=twitter" width="60"> </a> </div>
